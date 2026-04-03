@@ -1,4 +1,4 @@
-# 🔋 Baden-Württemberg Energy Monitor
+# Baden-Württemberg Energy Monitor
 
 ![Dashboard](dashbord_img.png)
 
@@ -12,10 +12,10 @@ This project simulates a real-world energy analytics pipeline used by utility co
 
 ---
 
-## 🏙️ Cities Covered
-- 🌞 **Freiburg** — Germany's sunniest city, highest solar potential
-- 🏭 **Stuttgart** — Major industrial hub, home to Bosch & Mercedes
-- ⚡ **Karlsruhe** — Tech & engineering city, highest wind potential
+## Cities Covered
+-  **Freiburg** — Germany's sunniest city, highest solar potential
+-  **Stuttgart** — Major industrial hub, home to Bosch & Mercedes
+-  **Karlsruhe** — Tech & engineering city, highest wind potential
 
 ---
 
@@ -113,14 +113,14 @@ jupyter notebook scripts/energy_pipeline.ipynb
 
 ---
 
-## 👤 Author
+## Author
 
 **Abhiraj** — Data Analyst | Hochschule Offenburg
 - GitHub: [@abhirajgm1924-sys](https://github.com/abhirajgm1924-sys)
 
 ---
 
-## 📬 Contact
+## Contact
 
 Open to Data Analyst / Data Scientist roles in Germany.
 Feel free to connect on [LinkedIn](www.linkedin.com/in/abhiraj-pittala-79b1551b2) or reach out via GitHub!
