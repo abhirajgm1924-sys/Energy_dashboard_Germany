@@ -44,19 +44,20 @@ This project simulates a real-world energy analytics pipeline used by utility co
 ---
 
 ## ⚙️ How It Works
-
+```
 Live API (Open-Meteo)
-↓
-Python Pipeline
-(fetch → clean → enrich)
-↓
-PostgreSQL Database
-(energy_data table)
-↓
-CSV Export
-↓
-Power BI Dashboard
-(real-time visuals + recommendations)
+        ↓
+   Python Pipeline
+   (fetch → clean → enrich)
+        ↓
+   PostgreSQL Database
+   (energy_data table)
+        ↓
+   CSV Export
+        ↓
+   Power BI Dashboard
+   (real-time visuals + recommendations)
+```
 
 ---
 
